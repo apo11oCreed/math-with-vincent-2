@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/math-with-vincent-2/static/css/main.06743829.chunk.css",
-    "main.js": "/math-with-vincent-2/static/js/main.cd6d206e.chunk.js",
-    "main.js.map": "/math-with-vincent-2/static/js/main.cd6d206e.chunk.js.map",
+    "main.js": "/math-with-vincent-2/static/js/main.33e6b794.chunk.js",
+    "main.js.map": "/math-with-vincent-2/static/js/main.33e6b794.chunk.js.map",
     "runtime~main.js": "/math-with-vincent-2/static/js/runtime~main.456469c9.js",
     "runtime~main.js.map": "/math-with-vincent-2/static/js/runtime~main.456469c9.js.map",
-    "static/js/2.f1c11844.chunk.js": "/math-with-vincent-2/static/js/2.f1c11844.chunk.js",
-    "static/js/2.f1c11844.chunk.js.map": "/math-with-vincent-2/static/js/2.f1c11844.chunk.js.map",
+    "static/css/2.266e55a5.chunk.css": "/math-with-vincent-2/static/css/2.266e55a5.chunk.css",
+    "static/js/2.4f634d69.chunk.js": "/math-with-vincent-2/static/js/2.4f634d69.chunk.js",
+    "static/js/2.4f634d69.chunk.js.map": "/math-with-vincent-2/static/js/2.4f634d69.chunk.js.map",
     "index.html": "/math-with-vincent-2/index.html",
-    "precache-manifest.aa726dd4d556e068db70846a8922954d.js": "/math-with-vincent-2/precache-manifest.aa726dd4d556e068db70846a8922954d.js",
+    "precache-manifest.db69f00a206c00b244df1a9db075a964.js": "/math-with-vincent-2/precache-manifest.db69f00a206c00b244df1a9db075a964.js",
     "service-worker.js": "/math-with-vincent-2/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/math-with-vincent-2/static/css/2.266e55a5.chunk.css.map",
     "static/css/main.06743829.chunk.css.map": "/math-with-vincent-2/static/css/main.06743829.chunk.css.map",
     "static/media/logo.svg": "/math-with-vincent-2/static/media/logo.5d5d9eef.svg"
   }
