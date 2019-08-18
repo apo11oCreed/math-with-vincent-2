@@ -1,11 +1,16 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Container from 'react-bootstrap/Container';
+//import Row from 'react-bootstrap/Row';
+//import Col from 'react-bootstrap/Col';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+    <Container>
+    <h1>Math With Vincent 2</h1>
+      <header className="App-header row">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
@@ -19,6 +24,7 @@ function App() {
           Learn React
         </a>
       </header>
+      </Container>
     </div>
   );
 }
