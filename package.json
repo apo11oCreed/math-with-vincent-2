@@ -5,9 +5,15 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
+<<<<<<< HEAD
+=======
+    "jquery": "^3.4.1",
+>>>>>>> a483df368ddef1d728e3542ffa6322e6cc64a245
     "react": "^16.9.0",
+    "react-bootstrap": "^1.0.0-beta.11",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.1"
+    "react-scripts": "3.1.1",
+    "reactstrap": "^8.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
