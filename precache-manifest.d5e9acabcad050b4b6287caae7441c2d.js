@@ -1,19 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4340c90a93f0d583addc43edb03b7d6f",
+    "revision": "70361195eaf1e4fbdf118533a0ac6132",
     "url": "/math-with-vincent-2/index.html"
   },
   {
-    "revision": "c7dc89e7086522f44c6a",
+    "revision": "5074a28f05cc1e836e9e",
+    "url": "/math-with-vincent-2/static/css/2.266e55a5.chunk.css"
+  },
+  {
+    "revision": "809f6b3d7ad328e7157b",
     "url": "/math-with-vincent-2/static/css/main.06743829.chunk.css"
   },
   {
-    "revision": "90f8e1d48425567fafcf",
-    "url": "/math-with-vincent-2/static/js/2.f1c11844.chunk.js"
+    "revision": "5074a28f05cc1e836e9e",
+    "url": "/math-with-vincent-2/static/js/2.8f93ee78.chunk.js"
   },
   {
-    "revision": "c7dc89e7086522f44c6a",
-    "url": "/math-with-vincent-2/static/js/main.31782783.chunk.js"
+    "revision": "809f6b3d7ad328e7157b",
+    "url": "/math-with-vincent-2/static/js/main.b28505fa.chunk.js"
   },
   {
     "revision": "1712dd28bd3cf4930eb0",
