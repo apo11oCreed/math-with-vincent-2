@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "21736088408486339763e989dfd397d0",
+    "revision": "8e0008e3e55d33d42c2d02f702125a96",
     "url": "/math-with-vincent-2/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/math-with-vincent-2/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "a1b183fe9758f6681479",
+    "revision": "ec1951ee510af06b2d41",
     "url": "/math-with-vincent-2/static/css/main.06743829.chunk.css"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/math-with-vincent-2/static/js/2.287e8456.chunk.js"
   },
   {
-    "revision": "a1b183fe9758f6681479",
-    "url": "/math-with-vincent-2/static/js/main.0a2dedb9.chunk.js"
+    "revision": "ec1951ee510af06b2d41",
+    "url": "/math-with-vincent-2/static/js/main.d55ece6a.chunk.js"
   },
   {
     "revision": "1712dd28bd3cf4930eb0",
     "url": "/math-with-vincent-2/static/js/runtime~main.456469c9.js"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/math-with-vincent-2/static/media/logo.5d5d9eef.svg"
+    "revision": "9964bf42147d28f56102fc071a2b1102",
+    "url": "/math-with-vincent-2/static/media/logo.9964bf42.svg"
   }
 ]);
