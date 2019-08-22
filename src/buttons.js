@@ -1,12 +1,9 @@
 import React from 'react';
-const buttonStyle = {
-  fontSize: '40'
-};
 
-class MenuButtons extends React.Component{
-	render() {
-		return <div><button><span style={buttonStyle}>Adding</span></button><button><span style={buttonStyle}>Subtracting</span></button></div>
-	}
+class MenuButtons extends React.Component {
+    render() {
+        return <div><button class="navigation_main col-6">Add<br /><span class="navigation_main-icon">+</span></button><button class="navigation_main col-6"><span>Subtract<br /><span class="navigation_main-icon">-</span></span></button></div>
+    }
 }
 
 export default MenuButtons;
