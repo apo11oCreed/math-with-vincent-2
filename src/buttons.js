@@ -1,9 +1,9 @@
 import React from 'react';
+let addButtonText="Add";
+let subtractButtonText="Subtract";
 
-class MenuButtons extends React.Component {
+export default class MenuButtons extends React.Component {
     render() {
-        return <div><button class="navigation_main col-6">Add<br /><span class="navigation_main-icon">+</span></button><button class="navigation_main col-6"><span>Subtract<br /><span class="navigation_main-icon">-</span></span></button></div>
+        return <div><button className="navigation_main col-6">{addButtonText}<br /><span className="navigation_main-icon glyphicon glyphicon-plus">+</span></button><button className="navigation_main col-6"><span>{subtractButtonText}<br /><span className="navigation_main-icon glyphicon glyphicon-minus">-</span></span></button></div>
     }
 }
-
-export default MenuButtons;

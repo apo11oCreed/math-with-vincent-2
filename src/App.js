@@ -5,9 +5,12 @@ import Container from 'react-bootstrap/Container';
 //import Row from 'react-bootstrap/Row';
 //import Col from 'react-bootstrap/Col';
 import MenuButtons from './buttons';
+let addButtonText="<span>add</span>";
+let subtractButtonText="<span>subtract</span>";
 
-function App() {
-  return (
+export default class App extends React.Component {
+  render(){
+    return (
     <div className="App">
     <Container>
     <h1>Math With Vincent 2</h1>
@@ -29,6 +32,5 @@ function App() {
       </Container>
     </div>
   );
+  }
 }
-
-export default App;
