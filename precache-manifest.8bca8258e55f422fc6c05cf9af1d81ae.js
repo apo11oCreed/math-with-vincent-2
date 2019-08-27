@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f1bdc0b04134a75863c91cbd38d092c1",
+    "revision": "5f8e044d57acb45162ea568c39f0f4bb",
     "url": "/math-with-vincent-2/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/math-with-vincent-2/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "115347f95aa31d74ffa2",
+    "revision": "3df0c52fac8fd73b3716",
     "url": "/math-with-vincent-2/static/css/main.dec5a425.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/math-with-vincent-2/static/js/2.01cb6c8a.chunk.js"
   },
   {
-    "revision": "115347f95aa31d74ffa2",
-    "url": "/math-with-vincent-2/static/js/main.acf37137.chunk.js"
+    "revision": "3df0c52fac8fd73b3716",
+    "url": "/math-with-vincent-2/static/js/main.ee6eb220.chunk.js"
   },
   {
     "revision": "1712dd28bd3cf4930eb0",
