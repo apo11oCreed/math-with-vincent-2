@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/math-with-vincent-2/precache-manifest.8bca8258e55f422fc6c05cf9af1d81ae.js"
+  "/math-with-vincent-2/precache-manifest.f306bf8f0e6e2d7d7b7ca43c6d6ef2bc.js"
 );
 
 self.addEventListener('message', (event) => {
